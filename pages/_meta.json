@@ -1,0 +1,41 @@
+{
+    "index": {
+        "title": "المقدمة"
+    },
+    "swot": {
+        "title": "تحليل الوضع الحالي  "
+    },
+    "vision": {
+        "title": "الرسالة والرؤية"
+    },
+    "digital-marketing": {
+        "title": " الخطة التسويقية"
+    },
+    "competitor-analysis": {
+        "title": "  تحليل المنافسين"
+    },
+    "brand": {
+        "title": "الهوية البصرية"
+    },
+    "photography": {
+        "title": "معدات التصوير"
+    },
+    "social-media": {
+        "title": "منصات التواصل الاجتماعي"
+    },
+    "google-maps": {
+        "title": "خرائط جوجل  "
+    },
+    "clients-service": {
+        "title": "خدمة العملاء "
+    },
+    "website": {
+        "title": "الموقع الالكتروني"
+    },
+    "seo": {
+        "title": "تحسين محركات البحث"
+    },
+    "ads": {
+        "title": "  الحملات الاعلانية المدفوعة  "
+    }
+}
