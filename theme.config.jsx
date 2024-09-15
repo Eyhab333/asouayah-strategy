@@ -5,7 +5,7 @@ export default {
     <>
       
       <span style={{ marginLeft: '.4em', fontWeight: 800 }}>
-        AHAB
+      Asouayah
       </span>
     </>
   )  
@@ -20,7 +20,7 @@ export default {
     const { asPath } = useRouter()
     if (asPath !== '/') {
       return {
-        titleTemplate: '%s – AHAB'
+        titleTemplate: '%s – Asouayah'
       }
     }
   }
