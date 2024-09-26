@@ -4,52 +4,19 @@
     },
     "---": {
         "type": "separator",
-        "title": "مراحل الخطة بالتفصيل"
+        "title": "تفاصيل الخطة التسويقية"
     },
     "swot": {
-        "title": "اولا: تحليل الوضع الحالي  "
+        "title": "تحليل الوضع الحالي  "
     },
     "vision": {
-        "title": "ثانيا: الرسالة والرؤية"
+        "title": "الرسالة والرؤية"
     },
     "digital-marketing": {
-        "title": "ثالثا: اساسات الخطة التسويقية"
+        "title": "اسئلة الخطة التسويقية"
     },
     "competitor-analysis": {
-        "title": "رابعا:  تحليل المنافسين"
-    },
-    "brand": {
-        "title": "خامسا: الهوية البصرية"
-    },
-    "photography": {
-        "title": "سادسا: معدات التصوير"
-    },
-    "social-media": {
-        "title": "سابعا: منصات التواصل الاجتماعي"
-    },
-    "google-maps": {
-        "title": "ثامنا: خرائط جوجل  "
-    },
-    "clients-service": {
-        "title": "تاسعا: خدمة العملاء "
-    },
-    "website": {
-        "title": "عاشرا: الموقع الالكتروني"
-    },
-    "seo": {
-        "title": "الحادي عشر: تحسين محركات البحث"
-    },
-    "ads": {
-        "title": "الثاني عشر: الحملات الاعلانية المدفوعة  "
-    },
-    "content-marketing": {
-        "title": "مستمر: التسويق بالمحتوى  "
-    },
-    "--": {
-        "type": "separator"
-    },
-    "weekly-assessment": {
-        "title": "التقييم الاسبوعي"
+        "title": "تحليل المنافسين"
     },
     "about-the-service": {
         "title": "استيعاب خدمات ومجال الشركة "
@@ -59,5 +26,38 @@
     },
     "customer-behavior": {
         "title": "دراسة العملاء"
+    },
+    "brand": {
+        "title": "الهوية البصرية"
+    },
+    "photography": {
+        "title": "معدات التصوير"
+    },
+    "social-media": {
+        "title": "منصات التواصل الاجتماعي"
+    },
+    "google-maps": {
+        "title": "ثامنا: خرائط جوجل  "
+    },
+    "clients-service": {
+        "title": "خدمة العملاء "
+    },
+    "website": {
+        "title": "الموقع الالكتروني"
+    },
+    "seo": {
+        "title": "تحسين محركات البحث"
+    },
+    "ads": {
+        "title": "الحملات الاعلانية المدفوعة  "
+    },
+    "content-marketing": {
+        "title": "التسويق بالمحتوى  "
+    },
+    "--": {
+        "type": "separator"
+    },
+    "weekly-assessment": {
+        "title": "التقييم الاسبوعي"
     }
 }
