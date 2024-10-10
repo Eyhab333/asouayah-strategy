@@ -1,8 +1,27 @@
 {
     "index": {
-        "title": "المقدمة"
+        "title": "التقرير اليومي"
     },
     "---": {
+        "type": "separator",
+        "title": "الأولويات"
+    },
+    "real-estate-add-apps-info": {
+        "title": "اعلانات العقار"
+    },
+    "mashinary-add-apps-info": {
+        "title": "اعلانات المعدات"
+    },
+    "esraa-aqarya": {
+        "title": "شركة اسراء العقارية"
+    },
+    "offers": {
+        "title": "العروض"
+    },
+    "website": {
+        "title": "الموقع الالكتروني"
+    },
+    "----": {
         "type": "separator",
         "title": "تفاصيل الخطة التسويقية"
     },
@@ -41,21 +60,6 @@
     },
     "clients-service": {
         "title": "خدمة العملاء "
-    },
-    "real-estate-add-apps-info": {
-        "title": "اعلانات العقار"
-    },
-    "mashinary-add-apps-info": {
-        "title": "اعلانات المعدات"
-    },
-    "esraa-aqarya": {
-        "title": "شركة اسراء العقارية"
-    },
-    "website": {
-        "title": "الموقع الالكتروني"
-    },
-    "offers": {
-        "title": "العروض"
     },
     "seo": {
         "title": "تحسين محركات البحث"
