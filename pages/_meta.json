@@ -9,14 +9,14 @@
     "esraa-aqarya": {
         "title": "شركة اسراء العقارية"
     },
+    "offers": {
+        "title": "العروض"
+    },
     "real-estate-add-apps-info": {
         "title": "اعلانات العقار"
     },
     "mashinary-add-apps-info": {
         "title": "اعلانات المعدات"
-    },
-    "offers": {
-        "title": "العروض"
     },
     "website": {
         "title": "الموقع الالكتروني"
@@ -25,6 +25,13 @@
         "title": "منصات التواصل "
     },
     "----": {
+        "type": "separator",
+        "title": "ابو محمود السوري"
+    },
+    "grc": {
+        "title": "خطة ابو محمود"
+    },
+    "-----": {
         "type": "separator",
         "title": "تفاصيل الخطة التسويقية"
     },
