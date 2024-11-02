@@ -2,6 +2,9 @@
     "index": {
         "title": "التقرير اليومي"
     },
+    "weekly-assessment": {
+        "title": "التقييم الاسبوعي"
+    },
     "---": {
         "type": "separator",
         "title": "الأولويات"
@@ -85,8 +88,5 @@
     },
     "--": {
         "type": "separator"
-    },
-    "weekly-assessment": {
-        "title": "التقييم الاسبوعي"
     }
 }
