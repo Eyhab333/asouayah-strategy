@@ -5,6 +5,9 @@
     "weekly-assessment": {
         "title": "التقييم الاسبوعي"
     },
+    "daily-routine": {
+        "title": "الروتين اليومي"
+    },
     "---": {
         "type": "separator",
         "title": "الأولية مؤقتا"
