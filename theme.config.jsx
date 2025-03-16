@@ -5,7 +5,7 @@ export default {
     <>
       
       <span style={{ marginLeft: '.4em', fontWeight: 800 }}>
-      Asouayah
+      Asswyh
       </span>
     </>
   )  
