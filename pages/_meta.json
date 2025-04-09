@@ -11,34 +11,9 @@
     "daily-routine": {
         "title": "الروتين اليومي"
     },
-    "---": {
-        "type": "separator",
-        "title": "الأولية مؤقتا"
-    },
-    "esraa-aqarya": {
-        "title": "شركة اسراء العقارية"
-    },
-    "offers": {
-        "title": "العروض"
-    },
-    "real-estate-add-apps-info": {
-        "title": "اعلانات العقار"
-    },
-    "mashinary-add-apps-info": {
-        "title": "اعلانات المعدات"
-    },
-    "website": {
-        "title": "الموقع الالكتروني"
-    },
-    "esraa-social": {
-        "title": "منصات التواصل "
-    },
-    "real-estate-world": {
-        "title": "ثقافة عقارية"
-    },
     "-----": {
         "type": "separator",
-        "title": "الخطة التسويقية لشركة التطوير"
+        "title": " خطة شركة مازن للتطوير"
     },
     "swot": {
         "title": "تحليل الوضع الحالي  "
@@ -52,14 +27,17 @@
     "competitor-analysis": {
         "title": "تحليل المنافسين"
     },
-    "about-the-service": {
-        "title": "استيعاب خدمات ومجال الشركة "
-    },
     "market-study": {
         "title": "دراسة السوق"
     },
     "customer-behavior": {
         "title": "دراسة العملاء"
+    },
+    "target-audience": {
+        "title": "الجمهور المستهدف "
+    },
+    "lead-generation": {
+        "title": " توليد العملاء المحتملين"
     },
     "brand": {
         "title": "الهوية البصرية"
@@ -84,6 +62,34 @@
     },
     "ads": {
         "title": "الحملات الاعلانية المدفوعة  "
+    },
+    "about-the-service": {
+        "title": "استيعاب خدمات ومجال الشركة "
+    },
+    "---": {
+        "type": "separator",
+        "title": "خطة شركة التسويق العقاري"
+    },
+    "esraa-aqarya": {
+        "title": "شركة اسراء العقارية"
+    },
+    "website": {
+        "title": "الموقع الالكتروني"
+    },
+    "esraa-social": {
+        "title": "منصات التواصل "
+    },
+    "offers": {
+        "title": "العروض"
+    },
+    "real-estate-add-apps-info": {
+        "title": "اعلانات العقار"
+    },
+    "mashinary-add-apps-info": {
+        "title": "اعلانات المعدات"
+    },
+    "real-estate-world": {
+        "title": "ثقافة عقارية"
     },
     "----": {
         "type": "separator",
