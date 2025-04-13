@@ -36,9 +36,6 @@
     "target-audience": {
         "title": "الجمهور المستهدف "
     },
-    "lead-generation": {
-        "title": " توليد العملاء المحتملين"
-    },
     "brand": {
         "title": "الهوية البصرية"
     },
@@ -62,6 +59,9 @@
     },
     "ads": {
         "title": "الحملات الاعلانية المدفوعة  "
+    },
+    "lead-generation": {
+        "title": " توليد العملاء المحتملين"
     },
     "about-the-service": {
         "title": " خدمات ومجال الشركة "
